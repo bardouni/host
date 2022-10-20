@@ -16,7 +16,7 @@ export default class {
 	// 	}
 	// }
 
-	static Query = {
+	static Query = <const>{
 		// user(_, {id, acc}: {id: string, acc?}, ctx){
 		// user(_, tp: A, ctx){
 		// 	return {
